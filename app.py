@@ -19,7 +19,7 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
+st.subheader("Una pequeña Frase.")
 st.write('¡Yo no soy Goku ni Vegeta! ¡Soy Gogeta, y voy a acabar contigo! ' 
          '  '
          ' Akira Toriyama'
